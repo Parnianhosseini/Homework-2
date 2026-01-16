@@ -1,0 +1,33 @@
+body{
+    background-image: url(./images\ 3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav{
+   background-color: lightblue;
+   padding: 20px;
+}
+a{
+  text-decoration: none;
+  color: darkblue;
+  font-size: x-large;
+  margin: 100px;
+  height: 20px;
+}
+a:hover{
+   color: darkcyan;
+}
+.active{
+   color: darkcyan;
+}
+h1{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p,ul{
+   font-size: larger;
+   font-family: cursive;
+}
+#para{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: x-large;
+}
